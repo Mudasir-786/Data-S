@@ -1,5 +1,4 @@
 
-
 class Generic<T> {
     T data;
     Generic<T> next;
